@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\csproject\BMI-Calculator\bin\Debug\net9.0\newproject.exe
+C:\Users\User\OneDrive\Desktop\csproject\BMI-Calculator\bin\Debug\net9.0\newproject.deps.json
+C:\Users\User\OneDrive\Desktop\csproject\BMI-Calculator\bin\Debug\net9.0\newproject.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\csproject\BMI-Calculator\bin\Debug\net9.0\newproject.dll
+C:\Users\User\OneDrive\Desktop\csproject\BMI-Calculator\bin\Debug\net9.0\newproject.pdb
+C:\Users\User\OneDrive\Desktop\csproject\BMI-Calculator\obj\Debug\net9.0\newproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\csproject\BMI-Calculator\obj\Debug\net9.0\newproject.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\csproject\BMI-Calculator\obj\Debug\net9.0\newproject.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\csproject\BMI-Calculator\obj\Debug\net9.0\newproject.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\csproject\BMI-Calculator\obj\Debug\net9.0\newproject.dll
+C:\Users\User\OneDrive\Desktop\csproject\BMI-Calculator\obj\Debug\net9.0\refint\newproject.dll
+C:\Users\User\OneDrive\Desktop\csproject\BMI-Calculator\obj\Debug\net9.0\newproject.pdb
+C:\Users\User\OneDrive\Desktop\csproject\BMI-Calculator\obj\Debug\net9.0\newproject.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\csproject\BMI-Calculator\obj\Debug\net9.0\ref\newproject.dll
